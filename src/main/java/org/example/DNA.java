@@ -1,3 +1,9 @@
+/*
+* @description: Classe com o método para calcular a quantidade de nucleotídeos e o número de erros em uma sequência de DNA.
+* @author Nifane Borges & Vinicius Alves Amorim
+*/
+
+
 package org.example;
 
 import java.util.Objects;

@@ -1,3 +1,9 @@
+/*
+ * @description: Classe de testes para a classe DNA, utilizando JUnit 5.
+ * @author Nifane Borges & Vinicius Alves Amorim
+ */
+
+
 package org.example;
 
 import org.junit.jupiter.api.BeforeEach;
